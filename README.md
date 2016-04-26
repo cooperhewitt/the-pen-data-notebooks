@@ -2,3 +2,4 @@
 the-pen-data-notebooks
 
 1. [hello-data](01-hello-data.ipynb)
+2. [plot-something](02-plot-something.ipynb)
