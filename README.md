@@ -6,6 +6,8 @@ These are mainly a series of Jupyter Notebooks documenting my exploration into t
 1. [hello-data](01-hello-data.ipynb)
 2. [plot-something](02-plot-something.ipynb)
 3. [group-by](03-group-by.ipynb)
+4. [joining-data](04-joining-data.ipynb)
+
 
 ### Setup
 
